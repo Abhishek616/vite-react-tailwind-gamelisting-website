@@ -9,3 +9,12 @@ Currently, two official plugins are available:
 
 # Description
 This project is a sample design of a game listing website designed using react and tailwind css and vite as the project creation tool
+
+# how to run this project
+in the terminal run:
+```shell
+npm create vite@latest <project-name>
+npm install
+npm run dev
+```
+after these commands, copy the files in this repository into the created project and restart the project
